@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 9.0//EN"
+        "http://mybaits.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <typeAliases>
+        <package name="org.course.model"/>
+    </typeAliases>
+    <mappers>
+        <mapper resource="mapper/mysql.xml"/>
+    </mappers>
+
+</configuration>
