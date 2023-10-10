@@ -1,0 +1,4 @@
+org\course\controller\UserManager.class
+org\course\model\User.class
+org\course\Application.class
+org\course\config\SwaggerConfig.class
